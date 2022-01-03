@@ -14,7 +14,7 @@ django_1  | Performing system checks...
 django_1  | 
 django_1  | System check identified no issues (0 silenced).
 django_1  | August 25, 2021 - 05:12:35
-django_1  | Django version 3.2.6, using settings 'quick.settings'
+django_1  | Django version 3.2.6, using settings 'elenas.settings'
 django_1  | Starting development server at http://0.0.0.0:8080/
 django_1  | Quit the server with CONTROL-C.
 ```
